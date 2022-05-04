@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **kayithojukarthikeya@gmail.com**
 
-- ⚡ Fun fact **i think iam funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikeya830&show_icons=true&locale=en&layout=compact" alt="karthikeya830" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikeya830&show_icons=true&locale=en" alt="karthikeya830" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya830&" alt="karthikeya830" /></p>
