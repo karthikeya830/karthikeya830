@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kayithojukarthikeya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MVYD6XsIX1DJB38G3YwxywLIXxlG6aYJ/view]([https://drive.google.com/file/d/1MVYD6XsIX1DJB38G3YwxywLIXxlG6aYJ/view](https://drive.google.com/file/d/19m2O94aD87qg9dcB2eoWYhLFQD0ZeMIW/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19m2O94aD87qg9dcB2eoWYhLFQD0ZeMIW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
